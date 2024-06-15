@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/faster-whisper-large-v1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/faster-whisper-large-v3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/faster-whisper-medium.en" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/faster-whisper-small.en" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/faster-whisper-tiny.en" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/punc_ct-transformer_zh-cn-common-vocab272727-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/speech_fsmn_vad_zh-cn-16k-common-pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/models/speech_paraformer-large_asr_nat-zh-cn-16k-common-vocab8404-pytorch" vcs="Git" />
+  </component>
+</project>
